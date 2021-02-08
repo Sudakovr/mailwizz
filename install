@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Updating Ubunut
+echo "updating ubunutu... please be patient"
+apt-get update
